@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/google/google-api-php-client.svg)](https://travis-ci.org/google/google-api-php-client)
+[![Latest Stable Version](http://poser.pugx.org/planningsagenda/apiclient/v)](https://packagist.org/packages/planningsagenda/apiclient) [![Total Downloads](http://poser.pugx.org/planningsagenda/apiclient/downloads)](https://packagist.org/packages/planningsagenda/apiclient) [![Latest Unstable Version](http://poser.pugx.org/planningsagenda/apiclient/v/unstable)](https://packagist.org/packages/planningsagenda/apiclient) [![License](http://poser.pugx.org/planningsagenda/apiclient/license)](https://packagist.org/packages/planningsagenda/apiclient) [![PHP Version Require](http://poser.pugx.org/planningsagenda/apiclient/require/php)](https://packagist.org/packages/planningsagenda/apiclient)
 
 # Google APIs Client Library for PHP #
 
